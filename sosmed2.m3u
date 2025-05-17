@@ -2039,12 +2039,12 @@ https://rr4---sn-a5meknde.c.youtube.com/videoplayback?expire=1747171421&ei=3Ucja
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://asset.indosport.com/article/image/329743/liga_1_bri_1-169.jpg" group-title="🔴LIGA BRI / EVENT ONLY", INDOSIAR(LIGA BRI)
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://asset.indosport.com/article/image/329743/liga_1_bri_1-169.jpg" group-title="🔴LIGA BRI / EVENT ONLY", INDOSIAR FHD (LIGA BRI)
 https://link.zozotv.xyz:443/live/usez37/zxy921/45.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/329743/liga_1_bri_1-169.jpg" group-title="🔴LIGA BRI / EVENT ONLY",INDOSIAR BRI LIGA 01 FHD
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/329743/liga_1_bri_1-169.jpg" group-title="🔴LIGA BRI / EVENT ONLY",INDOSIAR BRI LIGA FHD
 http://xtv.ooo:8080/live/387546/200900/350972.ts
 
 

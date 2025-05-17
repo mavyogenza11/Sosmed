@@ -2053,11 +2053,11 @@ _________
 926003 tv bofang/61 \\ https: //play. 926003. tv
 
 
-#EXTINF:-2 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="🔴LIGA BRI / EVENT ONLY",BRI LIGA 02 HD
-#EXTVCLOPT:http-origin=https://play.926003.tv
-#EXTVLCOPT:http-referrer=https://play.926003.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pl10.chinefore.com/live/a68cd5023a639026.m3u8?txSecret=5536e103a12763db041a56f9efd07340&txTime=6827262D
+###EXTINF:-2 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="🔴LIGA BRI / EVENT ONLY",BRI LIGA 02 HD
+###EXTVCLOPT:http-origin=https://play.926003.tv
+###EXTVLCOPT:http-referrer=https://play.926003.tv/
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+##https://pl10.chinefore.com/live/a68cd5023a639026.m3u8?txSecret=5536e103a12763db041a56f9efd07340&txTime=6827262D
 
 
 
@@ -2065,11 +2065,11 @@ ______________
 jalalive 1
 
 
-##EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="🔴LIGA BRI / EVENT ONLY",event only 1(JALALIVE1)
-##EXTVLCOPT:http-user-agent:Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-##EXTVLCOPT:http-referrer=https://jlbfh5.jlbfaa.com/
-##EXTVLCOPT:http-origin=https://jlbfh5.jlbfaa.com
-###https://bf.jabflive.cc/live/322708_hd01.m3u8?txSecret=42f94db8639fb1db58885dca728528d0&txTime=681f1975
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="🔴LIGA BRI / EVENT ONLY",event only 1(JALALIVE1)
+#EXTVLCOPT:http-user-agent:Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://jlbfh5.jlbfaa.com/
+#EXTVLCOPT:http-origin=https://jlbfh5.jlbfaa.com
+https://bf.jabflive.cc/live/322667_hd01.m3u8?txSecret=b2769fcd7693387f9402874595ea36e7&txTime=68288617
 
 
 

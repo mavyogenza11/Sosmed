@@ -2008,9 +2008,19 @@
 
 
 
-#EXTINF:-1 group-logo="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png",YOUTUBE Channel
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png" group-title="🔵LIVE MDM",SELESAI _ 🔴 LIVE SEDEKAH BUMI SULURSARI
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746386075/ei/O2gXaP3II57c3LUPy9nagAw/ip/160.22.128.18/id/p23YJp3Q8wc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AecWEAbMSnqgoj6ydXQGJ1Jvp5iG6iFaa9Vx331CpOKpjnTAsxTtdVVEDK2W-NNFBG_ed10zWg/spc/wk1kZkWZa-MCWFAKQ6LT1UlEJfPEpowPenE2U-vB5lzFugFb33p2bXixmb04jxXI9Q/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPHkmf1fQFR2R42ZggMz-NkQ4QoR0gqaNnyb2fbirpuqAiEA8fvPJ56dbAZtQ8bT2EXV_HUefPW7szCR1Cga2wuq61o%3D/file/index.m3u8
+
+#EXTINF:-1 group-logo="https://i.pinimg.com/736x/ee/0f/d1/ee0fd1f1dd18ee36da43099a40e2658a.jpg",YOUTUBE Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/ee/0f/d1/ee0fd1f1dd18ee36da43099a40e2658a.jpg" group-title="🔵LIVE MDM",INFO...!!
+https://scontent-cgk2-2.xx.fbcdn.net/o1/v/t2/f2/m69/AQOeLzVk5Kesn7EZkj2yJqquke9N1ZiyaatrAFKskHLxoz64F4I_fMwusK1wx_k08uqnoIJU3ra9hY_xLKdCy7c3.mp4?strext=1&_nc_cat=100&_nc_sid=9ca052&_nc_ht=scontent-cgk2-2.xx.fbcdn.net&_nc_ohc=I3kqZMAGCY4Q7kNvwGsm4q8&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjo1NDcwMzAxMDQ5MzE3OTAsIm9pbF91cmxnZW5fYXBwX2lkIjowLCJjbGllbnRfbmFtZSI6InVua25vd24iLCJ4cHZfYXNzZXRfaWQiOjE3NDAwMDQ1OTM2MTY1NzAsInZpX3VzZWNhc2VfaWQiOjEwMTIxLCJkdXJhdGlvbl9zIjoyNjIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_zt=28&_nc_eui2=AeG4Z5HnJVMHhvmT8tqyLRtlqdncYDZwLQmp2dxgNnAtCYGKUAe5MPDFqu9g5KO8TKc1OGFu1Lom3Y28YwXELPU5&oh=00_AfKEPtrVo-aoVQ5oVbg2Ni1LixoQ9-gYxXFVz5YZTF8iHA&oe=682E6156&bytestart=25590622&byteend=27095951%20Request%20Method%20GET
+
+
+
+
+
+
+###EXTINF:-1 group-logo="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png",YOUTUBE Channel
+###EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png" group-title="🔵LIVE MDM",SELESAI _ 🔴 LIVE SEDEKAH BUMI SULURSARI
+##https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746386075/ei/O2gXaP3II57c3LUPy9nagAw/ip/160.22.128.18/id/p23YJp3Q8wc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AecWEAbMSnqgoj6ydXQGJ1Jvp5iG6iFaa9Vx331CpOKpjnTAsxTtdVVEDK2W-NNFBG_ed10zWg/spc/wk1kZkWZa-MCWFAKQ6LT1UlEJfPEpowPenE2U-vB5lzFugFb33p2bXixmb04jxXI9Q/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPHkmf1fQFR2R42ZggMz-NkQ4QoR0gqaNnyb2fbirpuqAiEA8fvPJ56dbAZtQ8bT2EXV_HUefPW7szCR1Cga2wuq61o%3D/file/index.m3u8
 
 
 
@@ -2020,14 +2030,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746386075/ei/O
 #EXTINF:-1 group-logo="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png",YOUTUBE Channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png" group-title="🔵LIVE MDM",TESTED
 https://scontent-cgk2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQOofb3IMz82LSg6sjDpu7HzVwSSWZBQ7H10n8BwVm8iaGsesd6j78tlo6w6yYsJZXXL0Ijq34IYfYMnMUFVlUMs.mp4?strext=1&_nc_cat=106&_nc_sid=8bf8fe&_nc_ht=scontent-cgk2-1.xx.fbcdn.net&_nc_ohc=Z38y1JyWwzcQ7kNvwGdTPn-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NDE4MTQ5MjQ3MjM0NDk3LCJhc3NldF9hZ2VfZGF5cyI6MTIxOSwidmlfdXNlY2FzZV9pZCI6MTAxMjMsImR1cmF0aW9uX3MiOjExMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_zt=28&_nc_eui2=AeFHJ8ntYQ9BUYgK1ktd9-WQz5k9cYbC0W7PmT1xhsLRbjkgP3zapYB8PSYXD9zPYGLyVBcr3nEMh3mwoFwtnwbU&oh=00_AfKqhUtgCoiYOxJvRy2sG7WvPqWL9NwcaUx9TXeOzILoAA&oe=6828E0F0
-
-
-
-
-
-#EXTINF:-1 group-logo="https://i.pinimg.com/736x/ee/0f/d1/ee0fd1f1dd18ee36da43099a40e2658a.jpg",YOUTUBE Channel
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/ee/0f/d1/ee0fd1f1dd18ee36da43099a40e2658a.jpg" group-title="🔵LIVE MDM",INFO...!!
-https://scontent-cgk2-2.xx.fbcdn.net/o1/v/t2/f2/m69/AQOeLzVk5Kesn7EZkj2yJqquke9N1ZiyaatrAFKskHLxoz64F4I_fMwusK1wx_k08uqnoIJU3ra9hY_xLKdCy7c3.mp4?strext=1&_nc_cat=100&_nc_sid=9ca052&_nc_ht=scontent-cgk2-2.xx.fbcdn.net&_nc_ohc=I3kqZMAGCY4Q7kNvwGsm4q8&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdnA5LWJhc2ljLWdlbjJfNzIwcCIsInZpZGVvX2lkIjo1NDcwMzAxMDQ5MzE3OTAsIm9pbF91cmxnZW5fYXBwX2lkIjowLCJjbGllbnRfbmFtZSI6InVua25vd24iLCJ4cHZfYXNzZXRfaWQiOjE3NDAwMDQ1OTM2MTY1NzAsInZpX3VzZWNhc2VfaWQiOjEwMTIxLCJkdXJhdGlvbl9zIjoyNjIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_zt=28&_nc_eui2=AeG4Z5HnJVMHhvmT8tqyLRtlqdncYDZwLQmp2dxgNnAtCYGKUAe5MPDFqu9g5KO8TKc1OGFu1Lom3Y28YwXELPU5&oh=00_AfKEPtrVo-aoVQ5oVbg2Ni1LixoQ9-gYxXFVz5YZTF8iHA&oe=682E6156&bytestart=25590622&byteend=27095951%20Request%20Method%20GET
 
 
 

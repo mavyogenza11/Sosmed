@@ -2047,9 +2047,9 @@ https://scontent-cgk2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQOofb3IMz82LSg6sjDpu7HzVwSS
 ================ 🔴LIVE LIGA BRI / EVENT ONLY ==================
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://asset.indosport.com/article/image/329743/liga_1_bri_1-169.jpg" group-title="🔴LIGA BRI / EVENT ONLY", INDOSIAR FHD (LIGA BRI)
-https://link.zozotv.xyz:443/live/usez37/zxy921/45.ts
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+###EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://asset.indosport.com/article/image/329743/liga_1_bri_1-169.jpg" group-title="🔴LIGA BRI / EVENT ONLY", INDOSIAR FHD (LIGA BRI)
+##https://link.zozotv.xyz:443/live/usez37/zxy921/45.ts
 
 
 

@@ -2451,11 +2451,11 @@ SPORTSTAR2.1
 _____
 SPOSTAR 3
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_3.png" group-title="SPORTS",(OFFLINE)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+###EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_3.png" group-title="SPORTS",(OFFLINE)
+###KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=114&type=drm
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://terabit.web.id/media.mpd?id=114&type=dash
+###EXTVLCOPT:http-referrer=https://www.visionplus.id/
+###https://terabit.web.id/media.mpd?id=114&type=dash
 
 
 _____

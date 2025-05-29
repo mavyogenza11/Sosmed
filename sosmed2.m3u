@@ -2079,12 +2079,11 @@ https://scontent-cgk2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQOofb3IMz82LSg6sjDpu7HzVwSS
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://asset.indosport.com/article/image/329743/liga_1_bri_1-169.jpg" group-title="🔴LIGA BRI / EVENT ONLY", INDOSIAR FHD (LIGA BRI)
-https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/ind1.m3u8
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://asset.indosport.com/article/image/329743/liga_1_bri_1-169.jpg" group-title="🔴LIGA BRI / EVENT ONLY",(EVENT OFFLINE DULU MASZEEH) 🙏
 
 
 
-#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/329743/liga_1_bri_1-169.jpg" group-title="🔴LIGA BRI / EVENT ONLY",INDOSIAR BRI LIGA FHD
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/329743/liga_1_bri_1-169.jpg" group-title="🔴LIGA BRI / EVENT ONLY",(EVENT OFFLINE DULU MASZEEH)🙏
 http://xtv.ooo:8080/live/387546/200900/350972.ts
 
 
@@ -2152,7 +2151,7 @@ livesport
 ____________________
 MOJI PROLIGA
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQLLiWo8gy9nEYZ90sVD7afOFOtrhxZ3wlDA&s" group-title="🔴LIGA BRI / EVENT ONLY",MOJI (PROLIGA)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQLLiWo8gy9nEYZ90sVD7afOFOtrhxZ3wlDA&s" group-title="🔴LIGA BRI / EVENT ONLY",(OFFLINE)
 http://xtv.ooo:8080/live/387546/200900/350997.ts
 
 
